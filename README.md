@@ -1,64 +1,116 @@
-# Shaheen
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Shaheen;AI+Student+%40+AlexU;Building+Intelligent+Systems;ML+%26+Data+Science" alt="Typing SVG" />
-</div>
+# 👋 Hi, I'm Shaheen Mohammed Shaheen
 
-<div align="center">
-  <h3>Alexandria, Egypt | Artificial Intelligence Student</h3>
-</div>
-
-<p align="center">
- <a href="https://www.linkedin.com/in/shaheen-mohammed-shaheen" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>
- <a href="mailto:shaheenmohammedsh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
- </a>
-</p>
+🎓 Artificial Intelligence Student  
+📍 Alexandria, Egypt  
+📧 Email: shaheenmohammedsh@gmail.com  
+🔗 LinkedIn: [Shaheen Mohammed Shaheen](https://www.linkedin.com/in/shaheen-mohammed-shaheen)  
+🔗 GitHub: [shaheen-ai](https://github.com/shaheen-ai)
 
 ---
 
-### About Me
+## 🎯 Professional Summary
+Motivated and detail-oriented **Artificial Intelligence student** at the Faculty of Computers and Data Science, Alexandria University.  
+Passionate about **Machine Learning, Data Analysis, and AI Optimization**, with solid foundations in mathematics, algorithms, and statistical modeling.
 
-I am a motivated **Artificial Intelligence student** at the **Faculty of Computers and Data Science, Alexandria University**. I am passionate about building smart solutions using **Machine Learning** and **Optimization Algorithms**.
-
-* Currently working on **AI Project Pipelines & Smart Systems**.
-* Currently learning **Advanced Neural Networks & Data Ethics**.
-* Interested in **Ant Colony Optimization (ACO)** and **Blockchain Integration**.
-* Certified in **Data Science & ML** from Maim Center for AI.
+Experienced in building **end-to-end AI and software projects**, combining theoretical knowledge with practical implementation.  
+Actively seeking **high-impact summer training opportunities** to apply AI techniques in real-world environments and grow as a professional engineer.
 
 ---
 
-### Languages & Tools
-
-<div align="center">
-
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
- <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
- <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
- 
- <br/>
- 
- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
- <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
- <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
- <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
- 
- <br/>
- 
- <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
- <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-
-</div>
+## 🎓 Education
+**Bachelor’s Degree in Artificial Intelligence**  
+Faculty of Computers and Data Science, Alexandria University  
+📅 Expected Graduation: **2028**
 
 ---
 
-### GitHub Stats
+## 💼 Training Experience
+### AI Training Program — *Data Science & Machine Learning*  
+**Maim Center for Artificial Intelligence and Machine Learning**  
+📜 Certificate: [View Certificate](https://training.maim-ds.com/certificate?cert_hash=837b89e9a0451455)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaheen-ai&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Shaheen's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheen-ai&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</div>
+**Key Contributions:**
+- Built a complete **AI project pipeline** using the *Student Performance Dataset* (UCI Repository).
+- Designed data preprocessing workflows and applied **feature engineering** techniques.
+- Trained and evaluated multiple models:
+  - Logistic Regression  
+  - Decision Tree  
+  - Neural Networks
+- Developed a **Flask web application** to predict student performance (High / Medium / Low Risk).
+- Covered **data ethics**, bias mitigation, and AI lifecycle documentation.
+
+---
+
+## 🧠 Projects
+### 🔹 Application of Ant Colony Optimization in Smart Contract Management
+- Research-oriented project exploring the use of **ACO algorithms** to optimize blockchain smart contracts.
+- Focused on improving **security, efficiency, and resource optimization**.
+- Conducted performance comparison between **Ant Colony Optimization** and **Simulated Annealing**.
+- Strengthened expertise in **AI Optimization** and **Blockchain Integration**.
+
+---
+
+### 🔹 University Course Registration System (Java)
+- Designed and implemented a **Sparse Table-based system** using linked lists for efficient course registration.
+- Implemented core functionalities:
+  - Student enrollment and deletion  
+  - Course sorting and retrieval  
+  - **Undo / Redo functionality** using stacks
+- Improved **space efficiency** and optimized data retrieval for large-scale academic systems.
+
+---
+
+## 📚 Relevant Coursework
+- Linear Algebra
+- Calculus
+- Probability & Statistics I & II
+- Discrete Structures
+- Data Structures and Algorithms
+- Programming I & II
+- Introduction to Artificial Intelligence
+- Machine Learning
+- Neural Networks
+- Pattern Recognition
+- Data Mining and Analytics
+- Databases
+- Numerical Computations
+- Operations Research
+- Cloud Computing
+- Smart Systems & Computational Intelligence
+
+---
+
+## 🧩 Technical Skills
+**Programming Languages:**  
+Python, Java, SQL
+
+**AI & Machine Learning:**  
+TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib
+
+**Databases:**  
+MySQL, SQLite
+
+**Web Development:**  
+Flask, HTML, CSS
+
+**Tools & Technologies:**  
+Git, GitHub, VS Code, Jupyter Notebook, Excel
+
+---
+
+## 🤝 Soft Skills
+- Teamwork & Collaboration
+- Problem Solving
+- Analytical Thinking
+- Adaptability
+- Research Skills
+- Continuous Learning
+
+---
+
+## 💡 Interests
+Artificial Intelligence • Data Science • Optimization Algorithms • Mathematics • Physics • Football • Emerging Technologies
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me for collaboration or opportunities.*
