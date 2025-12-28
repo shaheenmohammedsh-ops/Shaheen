@@ -1,116 +1,85 @@
-# 👋 Hi, I'm Shaheen Mohammed Shaheen
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1200&color=0A66C2&center=true&vCenter=true&width=650&lines=Shaheen+Mohammed+Shaheen;Artificial+Intelligence+Student;Machine+Learning+and+Data+Science;Building+Intelligent+Systems" alt="Typing SVG" />
+</div>
 
-🎓 Artificial Intelligence Student  
-📍 Alexandria, Egypt  
-📧 Email: shaheenmohammedsh@gmail.com  
-🔗 LinkedIn: [Shaheen Mohammed Shaheen](https://www.linkedin.com/in/shaheen-mohammed-shaheen)  
-🔗 GitHub: [shaheen-ai](https://github.com/shaheen-ai)
+<div align="center">
+  <p>Alexandria, Egypt · Artificial Intelligence Student, Alexandria University</p>
+</div>
 
----
-
-## 🎯 Professional Summary
-Motivated and detail-oriented **Artificial Intelligence student** at the Faculty of Computers and Data Science, Alexandria University.  
-Passionate about **Machine Learning, Data Analysis, and AI Optimization**, with solid foundations in mathematics, algorithms, and statistical modeling.
-
-Experienced in building **end-to-end AI and software projects**, combining theoretical knowledge with practical implementation.  
-Actively seeking **high-impact summer training opportunities** to apply AI techniques in real-world environments and grow as a professional engineer.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaheen-mohammed-shaheen">LinkedIn</a> ·
+  <a href="mailto:shaheenmohammedsh@gmail.com">Email</a> ·
+  <a href="https://github.com/shaheen-ai">GitHub</a>
+</p>
 
 ---
 
-## 🎓 Education
-**Bachelor’s Degree in Artificial Intelligence**  
+## Profile
+
+I am an **Artificial Intelligence undergraduate student** at the **Faculty of Computers and Data Science, Alexandria University**, with a strong academic background in mathematics, algorithms, and data analysis.
+
+My interests focus on **Machine Learning**, **data-driven systems**, and **optimization algorithms**, with hands-on experience in developing end-to-end academic and applied projects. I aim to apply theoretical foundations to practical systems and continuously improve my engineering and analytical skills through real-world experience.
+
+---
+
+## Education
+
+**Bachelor of Science in Artificial Intelligence**  
 Faculty of Computers and Data Science, Alexandria University  
-📅 Expected Graduation: **2028**
+Expected Graduation: 2028
 
 ---
 
-## 💼 Training Experience
-### AI Training Program — *Data Science & Machine Learning*  
-**Maim Center for Artificial Intelligence and Machine Learning**  
-📜 Certificate: [View Certificate](https://training.maim-ds.com/certificate?cert_hash=837b89e9a0451455)
+## Training
 
-**Key Contributions:**
-- Built a complete **AI project pipeline** using the *Student Performance Dataset* (UCI Repository).
-- Designed data preprocessing workflows and applied **feature engineering** techniques.
-- Trained and evaluated multiple models:
-  - Logistic Regression  
-  - Decision Tree  
-  - Neural Networks
-- Developed a **Flask web application** to predict student performance (High / Medium / Low Risk).
-- Covered **data ethics**, bias mitigation, and AI lifecycle documentation.
+**Data Science and Machine Learning Training Program**  
+Maim Center for Artificial Intelligence and Machine Learning  
+
+- Built a complete machine learning pipeline using the Student Performance Dataset (UCI Repository).
+- Performed data preprocessing, feature engineering, model training, and evaluation.
+- Implemented a Flask-based web application for student performance prediction.
+- Studied data ethics, bias mitigation, and the machine learning lifecycle.
+
+Certificate: https://training.maim-ds.com/certificate?cert_hash=837b89e9a0451455
 
 ---
 
-## 🧠 Projects
-### 🔹 Application of Ant Colony Optimization in Smart Contract Management
-- Research-oriented project exploring the use of **ACO algorithms** to optimize blockchain smart contracts.
-- Focused on improving **security, efficiency, and resource optimization**.
-- Conducted performance comparison between **Ant Colony Optimization** and **Simulated Annealing**.
-- Strengthened expertise in **AI Optimization** and **Blockchain Integration**.
+## Selected Projects
+
+**AI Student Performance Prediction System**  
+End-to-end machine learning pipeline including data preprocessing, feature engineering, model selection, and deployment using Flask.
+
+**University Course Registration System (Java)**  
+Efficient sparse table implementation using linked lists, supporting enrollment, deletion, sorting, and undo/redo functionality.
+
+**Ant Colony Optimization for Smart Contract Management**  
+Research-focused project exploring the application of optimization algorithms to improve smart contract efficiency and security.
 
 ---
 
-### 🔹 University Course Registration System (Java)
-- Designed and implemented a **Sparse Table-based system** using linked lists for efficient course registration.
-- Implemented core functionalities:
-  - Student enrollment and deletion  
-  - Course sorting and retrieval  
-  - **Undo / Redo functionality** using stacks
-- Improved **space efficiency** and optimized data retrieval for large-scale academic systems.
+## Technical Skills
+
+**Programming Languages:** Python, Java, SQL  
+
+**Machine Learning & Data Analysis:** TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib  
+
+**Databases:** MySQL, SQLite  
+
+**Web Technologies:** Flask, HTML, CSS  
+
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
 ---
 
-## 📚 Relevant Coursework
-- Linear Algebra
-- Calculus
-- Probability & Statistics I & II
-- Discrete Structures
-- Data Structures and Algorithms
-- Programming I & II
-- Introduction to Artificial Intelligence
-- Machine Learning
-- Neural Networks
-- Pattern Recognition
-- Data Mining and Analytics
-- Databases
-- Numerical Computations
-- Operations Research
-- Cloud Computing
-- Smart Systems & Computational Intelligence
+## Coursework
+
+Linear Algebra, Calculus, Probability and Statistics, Discrete Structures, Data Structures and Algorithms, Machine Learning, Neural Networks, Pattern Recognition, Data Mining, Databases, Numerical Computation, Operations Research, Cloud Computing, Smart Systems.
 
 ---
 
-## 🧩 Technical Skills
-**Programming Languages:**  
-Python, Java, SQL
+## GitHub Statistics
 
-**AI & Machine Learning:**  
-TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib
-
-**Databases:**  
-MySQL, SQLite
-
-**Web Development:**  
-Flask, HTML, CSS
-
-**Tools & Technologies:**  
-Git, GitHub, VS Code, Jupyter Notebook, Excel
-
----
-
-## 🤝 Soft Skills
-- Teamwork & Collaboration
-- Problem Solving
-- Analytical Thinking
-- Adaptability
-- Research Skills
-- Continuous Learning
-
----
-
-## 💡 Interests
-Artificial Intelligence • Data Science • Optimization Algorithms • Mathematics • Physics • Football • Emerging Technologies
-
----
-
-⭐ *Feel free to explore my repositories and connect with me for collaboration or opportunities.*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaheen-ai&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheen-ai&layout=compact&hide_border=true" height="150"/>
+</div>
