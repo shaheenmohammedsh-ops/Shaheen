@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=SHAHEEN+M.+SHAHEEN;Intelligent+Systems+Engineer;Building+Next-Gen+AI+Solutions;Data+Science+%26+Optimization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=SHAHEEN+M.+SHAHEEN;Intelligent+Systems+Engineer;Building+Smart+AI+Solutions;Optimization+%26+Algorithms" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 <h3 align="center">Professional Summary</h3>
 <p align="center">
-  I am an Intelligent Systems & Data Science student at Alexandria University (Class of 2028). My work focuses on bridging the gap between theoretical mathematics and practical software solutions. I specialize in building predictive models, optimizing algorithms (ACO), and developing full-stack AI applications.
+  I am an <b>Intelligent Systems Student</b> at the Faculty of Computers and Data Science, Alexandria University (Class of 2028). I specialize in designing smart systems that bridge the gap between theoretical mathematics and practical application. My focus is on Artificial Intelligence, Evolutionary Algorithms (ACO), and building autonomous software solutions.
 </p>
 
 <br />
@@ -48,7 +48,7 @@
         <b>Student Performance Prediction</b>
         <br />
         <br />
-        End-to-end ML pipeline with Flask & Neural Networks.
+        End-to-end AI pipeline with Flask & Neural Networks.
         <br />
         <a href="#">View Project</a>
       </td>
