@@ -1,85 +1,65 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1200&color=0A66C2&center=true&vCenter=true&width=650&lines=Shaheen+Mohammed+Shaheen;Artificial+Intelligence+Student;Machine+Learning+and+Data+Science;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Shaheen+M.+Shaheen;Intelligent+Systems+Engineer;Building+AI+%26+Data+Solutions;Optimization+%26+Algorithm+Design" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <p>Alexandria, Egypt · Artificial Intelligence Student, Alexandria University</p>
+  <a href="https://www.linkedin.com/in/shaheen-mohammed-shaheen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shaheenmohammedsh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shaheen-mohammed-shaheen">LinkedIn</a> ·
-  <a href="mailto:shaheenmohammedsh@gmail.com">Email</a> ·
-  <a href="https://github.com/shaheen-ai">GitHub</a>
-</p>
+<br />
+
+## Professional Summary
+
+I am an **Intelligent Systems & Data Science Student** at Alexandria University (Class of 2028), passionate about bridging the gap between theoretical mathematics and practical software solutions.
+
+My focus is on **Artificial Intelligence**, **Optimization Algorithms**, and **Data-Driven Systems**. I build systems that solve complex problems using logic, statistics, and efficient algorithms.
 
 ---
 
-## Profile
+## Technical Expertise
 
-I am an **Artificial Intelligence undergraduate student** at the **Faculty of Computers and Data Science, Alexandria University**, with a strong academic background in mathematics, algorithms, and data analysis.
-
-My interests focus on **Machine Learning**, **data-driven systems**, and **optimization algorithms**, with hands-on experience in developing end-to-end academic and applied projects. I aim to apply theoretical foundations to practical systems and continuously improve my engineering and analytical skills through real-world experience.
-
----
-
-## Education
-
-**Bachelor of Science in Artificial Intelligence**  
-Faculty of Computers and Data Science, Alexandria University  
-Expected Graduation: 2028
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **AI & Machine Learning** | Python, TensorFlow, Scikit-learn, Pandas, NumPy, Genetic Algorithms, Linear Programming |
+| **Core Programming** | Java (OOP & Data Structures), Python (Advanced), SQL (Complex Queries) |
+| **Web Development** | Flask (Backend), HTML5/CSS3 (Frontend), Streamlit (Data Apps) |
+| **Tools & DevOps** | Git, GitHub Actions, VS Code, Jupyter, Linux Environment |
 
 ---
 
-## Training
+## Featured Projects
 
-**Data Science and Machine Learning Training Program**  
-Maim Center for Artificial Intelligence and Machine Learning  
+### 1. Student Performance Prediction System (Full Stack AI)
+> *End-to-end Machine Learning pipeline integrated with a Web App.*
+* **The Problem:** Identifying students at risk of academic failure early.
+* **The Solution:** Built a predictive model using **Logistic Regression** and **Neural Networks**. Deployed via **Flask** web interface.
+* **Tech Stack:** Python, Scikit-Learn, Flask, Pandas.
+* **Link:** [View Repository](#)
 
-- Built a complete machine learning pipeline using the Student Performance Dataset (UCI Repository).
-- Performed data preprocessing, feature engineering, model training, and evaluation.
-- Implemented a Flask-based web application for student performance prediction.
-- Studied data ethics, bias mitigation, and the machine learning lifecycle.
+### 2. Ant Colony Optimization (ACO) Research
+> *Algorithm implementation for complex problem solving.*
+* **The Problem:** Optimizing Smart Contract execution paths in Blockchain.
+* **The Solution:** Implemented the **Ant Colony Meta-heuristic algorithm** to simulate optimal pathfinding.
+* **Impact:** Compared efficiency against Simulated Annealing (SA) methods.
+* **Link:** [View Repository](#)
 
-Certificate: https://training.maim-ds.com/certificate?cert_hash=837b89e9a0451455
-
----
-
-## Selected Projects
-
-**AI Student Performance Prediction System**  
-End-to-end machine learning pipeline including data preprocessing, feature engineering, model selection, and deployment using Flask.
-
-**University Course Registration System (Java)**  
-Efficient sparse table implementation using linked lists, supporting enrollment, deletion, sorting, and undo/redo functionality.
-
-**Ant Colony Optimization for Smart Contract Management**  
-Research-focused project exploring the application of optimization algorithms to improve smart contract efficiency and security.
+### 3. University Registration System
+> *Advanced Data Structures implementation.*
+* **Core Logic:** Built a custom **Sparse Table** utilizing **Linked Lists** and **Stacks** for Undo/Redo operations.
+* **Key Feature:** Optimized memory usage for large datasets of students and courses.
+* **Tech Stack:** Java, OOP Principles.
+* **Link:** [View Repository](#)
 
 ---
 
-## Technical Skills
-
-**Programming Languages:** Python, Java, SQL  
-
-**Machine Learning & Data Analysis:** TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib  
-
-**Databases:** MySQL, SQLite  
-
-**Web Technologies:** Flask, HTML, CSS  
-
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook
-
----
-
-## Coursework
-
-Linear Algebra, Calculus, Probability and Statistics, Discrete Structures, Data Structures and Algorithms, Machine Learning, Neural Networks, Pattern Recognition, Data Mining, Databases, Numerical Computation, Operations Research, Cloud Computing, Smart Systems.
-
----
-
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaheen-ai&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheen-ai&layout=compact&hide_border=true" height="150"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shaheen-ai&show_icons=true&theme=buefy&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheen-ai&layout=compact&theme=buefy&hide_border=true&langs_count=6" />
 </div>
