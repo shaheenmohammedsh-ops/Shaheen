@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Shaheen+M.+Shaheen;Intelligent+Systems+Engineer;Building+AI+%26+Data+Solutions;Optimization+%26+Algorithm+Design" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/shaheen-mohammed-shaheen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <h1>SHAHEEN MOHAMMED SHAHEEN</h1>
+  <h3>Artificial Intelligence & Intelligent Systems Engineer</h3>
+  <p>Alexandria, Egypt</p>
+  
+  <a href="https://www.linkedin.com/in/shaheen-mohammed-shaheen">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:shaheenmohammedsh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -15,51 +15,64 @@
 
 ## Professional Summary
 
-I am an **Intelligent Systems & Data Science Student** at Alexandria University (Class of 2028), passionate about bridging the gap between theoretical mathematics and practical software solutions.
+Motivated and detail-oriented Artificial Intelligence undergraduate at the Faculty of Computers and Data Science, Alexandria University. Passionate about **Machine Learning**, **Data Analysis**, and **AI Optimization**. 
 
-My focus is on **Artificial Intelligence**, **Optimization Algorithms**, and **Data-Driven Systems**. I build systems that solve complex problems using logic, statistics, and efficient algorithms.
+Possesses a strong foundation in **Python** and **Java**, with hands-on experience in building full-stack AI pipelines and implementing complex data structures. Eager to contribute to innovative AI solutions and expand technical expertise through real-world applications in **Smart Systems** and **Computational Intelligence**.
 
 ---
 
-## Technical Expertise
+## Education
 
-| Domain | Technologies & Tools |
+**Bachelor of Science in Artificial Intelligence** *Faculty of Computers and Data Science, Alexandria University* *Expected Graduation: 2028*
+
+* **Relevant Coursework:** Data Structures & Algorithms, Machine Learning, Neural Networks, Pattern Recognition, Operations Research, Cloud Computing, Smart Systems, Numerical Computations.
+
+---
+
+## Technical Skills
+
+| Category | Technologies |
 | :--- | :--- |
-| **AI & Machine Learning** | Python, TensorFlow, Scikit-learn, Pandas, NumPy, Genetic Algorithms, Linear Programming |
-| **Core Programming** | Java (OOP & Data Structures), Python (Advanced), SQL (Complex Queries) |
-| **Web Development** | Flask (Backend), HTML5/CSS3 (Frontend), Streamlit (Data Apps) |
-| **Tools & DevOps** | Git, GitHub Actions, VS Code, Jupyter, Linux Environment |
+| **Languages** | Python, Java, SQL (MySQL, SQLite) |
+| **AI & Machine Learning** | TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Genetic Algorithms |
+| **Web Development** | Flask, HTML, CSS |
+| **Tools & Version Control** | Git, GitHub, VS Code, Jupyter Notebook, Excel |
+| **Core Concepts** | OOP, Data Structures, Algorithms, Statistical Modeling, Optimization |
 
 ---
 
-## Featured Projects
+## Professional Training
 
-### 1. Student Performance Prediction System (Full Stack AI)
-> *End-to-end Machine Learning pipeline integrated with a Web App.*
-* **The Problem:** Identifying students at risk of academic failure early.
-* **The Solution:** Built a predictive model using **Logistic Regression** and **Neural Networks**. Deployed via **Flask** web interface.
-* **Tech Stack:** Python, Scikit-Learn, Flask, Pandas.
-* **Link:** [View Repository](#)
+**AI Training Program — Data Science & Machine Learning** *Maim Center for Artificial Intelligence and Machine Learning* *[View Certificate](https://training.maim-ds.com/certificate?cert_hash=837b89e9a0451455)*
 
-### 2. Ant Colony Optimization (ACO) Research
-> *Algorithm implementation for complex problem solving.*
-* **The Problem:** Optimizing Smart Contract execution paths in Blockchain.
-* **The Solution:** Implemented the **Ant Colony Meta-heuristic algorithm** to simulate optimal pathfinding.
-* **Impact:** Compared efficiency against Simulated Annealing (SA) methods.
-* **Link:** [View Repository](#)
-
-### 3. University Registration System
-> *Advanced Data Structures implementation.*
-* **Core Logic:** Built a custom **Sparse Table** utilizing **Linked Lists** and **Stacks** for Undo/Redo operations.
-* **Key Feature:** Optimized memory usage for large datasets of students and courses.
-* **Tech Stack:** Java, OOP Principles.
-* **Link:** [View Repository](#)
+* **End-to-End Pipeline:** Built a complete AI project pipeline using the Student Performance Dataset (UCI Repository).
+* **Modeling:** Designed preprocessing workflows, applied feature engineering, and trained Logistic Regression, Decision Tree, and Neural Network models.
+* **Deployment:** Implemented a **Flask** web application to predict student performance risk levels.
+* **Ethics:** Covered data ethics, bias mitigation, and AI model lifecycle documentation.
 
 ---
 
-## GitHub Activity
+## Key Projects
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shaheen-ai&show_icons=true&theme=buefy&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheen-ai&layout=compact&theme=buefy&hide_border=true&langs_count=6" />
+### Application of Ant Colony Optimization (ACO) in Smart Contracts
+*Research-based optimization project.*
+* **Objective:** Optimize blockchain smart contracts for enhanced security and efficiency.
+* **Methodology:** Explored and implemented **Ant Colony Optimization (ACO)** algorithms.
+* **Analysis:** Conducted comparative performance evaluation against Simulated Annealing (SA).
+* **Outcome:** Strengthened understanding of Meta-heuristic algorithms and Blockchain integration.
+
+### University Course Registration System
+*Advanced Java Data Structures implementation.*
+* **Architecture:** Developed a dynamic **Sparse Table System** utilizing linked lists.
+* **Functionality:** Implemented core administrative functions (Enrollment, Deletion, Sorting) and Undo/Redo operations using **Stacks**.
+* **Optimization:** Enhanced space efficiency and data retrieval speeds compared to traditional array-based systems.
+
+---
+
+## GitHub Analytics
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaheen-ai&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheen-ai&layout=compact&theme=graywhite&hide_border=true&langs_count=6" alt="Languages" />
 </div>
