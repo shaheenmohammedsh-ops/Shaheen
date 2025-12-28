@@ -1,73 +1,81 @@
-<h1 align="center">SHAHEEN MOHAMMED SHAHEEN</h1>
-<h3 align="center">Intelligent Systems & Artificial Intelligence Student</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=SHAHEEN+M.+SHAHEEN;Intelligent+Systems+Engineer;Building+Next-Gen+AI+Solutions;Data+Science+%26+Optimization" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  Alexandria, Egypt • +20 122 604 6165 • shaheenmohammedsh@gmail.com
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/shaheen-mohammed-shaheen">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shaheenmohammedsh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/shaheen-ai">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shaheen-mohammed-shaheen">LinkedIn Profile</a> • 
-  <a href="https://github.com/shaheen-ai">GitHub Profile</a>
-</p>
-
----
-
-## Professional Summary
-
-Motivated and detail-oriented Artificial Intelligence student at the Faculty of Computers and Data Science, Alexandria University. Passionate about Machine Learning, Data Analysis, and AI Optimization.
-
-Skilled in Python, Java, and statistical modeling, with hands-on experience in academic and practical projects. Eager to contribute to innovative AI solutions and expand technical and analytical expertise through real-world experience.
-
----
-
-## Education
-
-**Bachelor of Science in Artificial Intelligence**
-Faculty of Computers and Data Science, Alexandria University
-*Expected Graduation: 2028*
-
----
-
-## Technical Skills
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, SQL |
-| **AI & ML** | TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib |
-| **Web Dev** | Flask, HTML, CSS |
-| **Tools** | Git, GitHub, VS Code, Jupyter Notebook, Excel |
-
----
-
-## Projects
-
-**Student Performance Prediction System (AI Pipeline)**
-* Built a complete AI project pipeline using the Student Performance Dataset from the UCI Repository.
-* Designed preprocessing workflows and trained Logistic Regression, Decision Tree, and Neural Network models.
-* Implemented a Flask web app to predict student performance levels.
-
-**Ant Colony Optimization (ACO) Research**
-* Research-based project exploring how ACO algorithms can optimize blockchain smart contracts.
-* Compared ACO with Simulated Annealing for performance evaluation.
-* Strengthened understanding of AI Optimization and Blockchain Integration.
-
-**University Course Registration System**
-* Developed a dynamic Sparse Table System using Java and linked lists.
-* Implemented core functions: enrollment, deletion, sorting, and Undo/Redo using stacks.
-* Enhanced space efficiency and data retrieval in registration systems.
-
----
-
-## Training & Certificates
-
-**AI Training Program — Data Science & Machine Learning**
-*Maim Center for Artificial Intelligence and Machine Learning*
-* Focus: End-to-end AI pipelines, Data Ethics, Bias Mitigation.
-
----
-
-## GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=shaheen-ai&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Stats" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheen-ai&layout=compact&theme=graywhite&hide_border=true&langs_count=6" alt="Languages" />
+
+<h3 align="center">Professional Summary</h3>
+<p align="center">
+  I am an Intelligent Systems & Data Science student at Alexandria University (Class of 2028). My work focuses on bridging the gap between theoretical mathematics and practical software solutions. I specialize in building predictive models, optimizing algorithms (ACO), and developing full-stack AI applications.
+</p>
+
+<br />
+
+<h3 align="center">Technical Arsenal</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+<br />
+
+<h3 align="center">Featured Projects</h3>
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td width="33%" align="center">
+        <b>Student Performance Prediction</b>
+        <br />
+        <br />
+        End-to-end ML pipeline with Flask & Neural Networks.
+        <br />
+        <a href="#">View Project</a>
+      </td>
+      <td width="33%" align="center">
+        <b>Ant Colony Optimization</b>
+        <br />
+        <br />
+        Research on optimizing Smart Contracts using ACO algorithms.
+        <br />
+        <a href="#">View Project</a>
+      </td>
+      <td width="33%" align="center">
+        <b>Registration System</b>
+        <br />
+        <br />
+        Advanced Java implementation with Sparse Tables & Stacks.
+        <br />
+        <a href="#">View Project</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<h3 align="center">GitHub Analytics</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaheen-ai&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheen-ai&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</div>
