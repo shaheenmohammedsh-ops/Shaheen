@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=2F80ED&center=true&vCenter=true&width=700&lines=Shaheen+Mohammed;Artificial+Intelligence+Student;Machine+Learning+%7C+Data+Science;Optimization+%26+AI+Research" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=2F80ED&center=true&vCenter=true&width=700&lines=Shaheen+Mohammed+Shaheen;Artificial+Intelligence+Student;Machine+Learning+%7C+Data+Science;Optimization+%26+AI+Research" />
 
 <br/><br/>
 
